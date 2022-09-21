@@ -1,3 +1,11 @@
 main {
-  min-height: 80vh;
+	min-height: 80vh;
+}
+
+a {
+	text-decoration: none;
+}
+
+h3 {
+	padding-top: 1rem;
 }
